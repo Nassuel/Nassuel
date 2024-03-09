@@ -1,6 +1,6 @@
 ### Hai! Welcome to my profile! 👋
 
-My name is **Nassuel**! It's pronounced **Nah-ssu-eL**. From ![Dominican Republic flag](https://github.com/Nassuel/Nassuel/assets/34118212/2bf938c6-3c89-4604-a995-316d8370f987)
+My name is **Nassuel**! It's pronounced **Nah-ssu-eL**.
 
 🔭 Currently looking for my next job opportunity in this _fun_ ✨ market ✨
 
