@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+
+My name is **Nassuel**! It's pronounced **Nah-ssu-eL**.
+
+Currently looking for my next job opportunity in this _fun_ ✨ market ✨
 
 <!--
 **Nassuel/Nassuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
