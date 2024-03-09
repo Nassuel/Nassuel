@@ -1,8 +1,10 @@
-### Welcome to my profile! 👋
+### Hai! Welcome to my profile! 👋
 
-My name is **Nassuel**! It's pronounced **Nah-ssu-eL**.
+My name is **Nassuel**! It's pronounced **Nah-ssu-eL**. From ![Dominican Republic flag](https://github.com/Nassuel/Nassuel/assets/34118212/2bf938c6-3c89-4604-a995-316d8370f987)
 
-Currently looking for my next job opportunity in this _fun_ ✨ market ✨
+🔭 Currently looking for my next job opportunity in this _fun_ ✨ market ✨
+
+📫 How to reach me: valeranassuel@gmail.com
 
 <!--
 **Nassuel/Nassuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
