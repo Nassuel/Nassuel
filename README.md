@@ -11,7 +11,7 @@
 ```javascript
 const nassuel = {
     pronouns: "he/him",
-    currentStatus: "Sr. Technology Asset Specialist (Asset Engineer) @ Smartsheet",
+    currentStatus: "Technology Asset Systems Manager @ Smartsheet",
     funFact: "The job market is ✨ spicy ✨ right now"
 };
 ```
