@@ -41,6 +41,12 @@ const nassuel = {
 Migrated from ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
+### 🐟 My Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from the day's GitHub activity" />
+</p>
+
 ### 🌐 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valeranassuel@gmail.com)
