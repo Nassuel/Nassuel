@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hai there! 👋 I'm Nassuel
 
 ### *Pronounced:* **Nah-ssu-eL** 🎵
@@ -15,7 +17,7 @@ const nassuel = {
     funFact: "The job market is ✨ spicy ✨ right now"
 };
 ```
-[![Smartsheet](https://img.shields.io/badge/Smartsheet-0073E6?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NSA2Ni40Ij4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik04LjQsMzMuNmMwLDAsMi40LTMuMyw1LjUtMy40YzQuOS0wLjEsOC44LDguNiw5LjQsOS45YzUuNC0xMiwxNC4zLTIyLjIsMjEuNS0yOUgwLjUKICAgIGMwLDQuMiwwLDQ2LjIsMCw0OS43YzAsMi43LTAuNCw0LjctMC42LDUuNWMyLTAuMyw5LjQtMS42LDE3LTQuM2MxMy41LTQuOCwxOC43LTEwLDE4LjgtMTBsMC4zLTAuM2wwLjIsMC40CiAgICBjMCwwLDEuNywzLjcsMy40LDUuN2MxLjksMi4yLDIuOSwyLjQsMy41LDIuM2MwLjgtMC4yLDEuMy0xLjUsMS41LTMuNWMwLjItMiwwLjQtNi41LDAuNC0xMmMwLTkuOSwwLTIzLDAtMjkuNgogICAgQzMxLjksMzEsMjIuMyw1NSwyMi4zLDU1UzE2LDMzLjUsOC40LDMzLjZ6Ii8+Cjwvc3ZnPg==&logoColor=white)](https://www.smartsheet.com)
+[![Working at Smartsheet](https://img.shields.io/badge/Working_at-Smartsheet-0073E6?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NSA2Ni40Ij4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik04LjQsMzMuNmMwLDAsMi40LTMuMyw1LjUtMy40YzQuOS0wLjEsOC44LDguNiw5LjQsOS45YzUuNC0xMiwxNC4zLTIyLjIsMjEuNS0yOUgwLjUKICAgIGMwLDQuMiwwLDQ2LjIsMCw0OS43YzAsMi43LTAuNCw0LjctMC42LDUuNWMyLTAuMyw5LjQtMS42LDE3LTQuM2MxMy41LTQuOCwxOC43LTEwLDE4LjgtMTBsMC4zLTAuM2wwLjIsMC40CiAgICBjMCwwLDEuNywzLjcsMy40LDUuN2MxLjksMi4yLDIuOSwyLjQsMy41LDIuM2MwLjgtMC4yLDEuMy0xLjUsMS41LTMuNWMwLjItMiwwLjQtNi41LDAuNC0xMmMwLTkuOSwwLTIzLDAtMjkuNgogICAgQzMxLjksMzEsMjIuMyw1NSwyMi4zLDU1UzE2LDMzLjUsOC40LDMzLjZ6Ii8+Cjwvc3ZnPg==&logoColor=white)](https://www.smartsheet.com)
 
 ### 🛠️ Tech Stack
 
@@ -44,7 +46,7 @@ Migrated from ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio
 ### 🐟 My Koi
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from the day's GitHub activity" />
+  <img src="koi/koi.gif" width="100%" alt="My koi, redrawn every night from the day's GitHub activity" />
 </p>
 
 ### 🌐 Let's Connect!
@@ -54,3 +56,5 @@ Migrated from ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nassuel.com)
 
 *Thanks for stopping by!* ✨
+
+</div>
