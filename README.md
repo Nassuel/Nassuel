@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hai there! 👋 I'm Nassuel
 
 ### *Pronounced:* **Nah-ssu-eL** 🎵
@@ -56,5 +54,3 @@ Migrated from ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nassuel.com)
 
 *Thanks for stopping by!* ✨
-
-</div>
